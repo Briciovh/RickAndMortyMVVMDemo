@@ -7,11 +7,11 @@
 
         <variable
             name="character"
-            type="com.example.harvesterapidemo.model.rickmorty.Results" />
+            type="com.example.rickandmortydemo.model.rickmorty.Results" />
 
         <variable
             name="clickListener"
-            type="com.example.harvesterapidemo.ui.ItemClickListener" />
+            type="com.example.rickandmortydemo.ui.ItemClickListener" />
 
     </data>
 

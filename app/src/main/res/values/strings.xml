@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HarvesterAPIDemo</string>
+    <string name="app_name">RickAndMortyDemo</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="character_image_description">Character image</string>
     <string name="joined_properties">%s - %s</string>

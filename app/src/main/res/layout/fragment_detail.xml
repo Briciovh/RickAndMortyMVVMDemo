@@ -6,10 +6,10 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.harvesterapidemo.ui.SharedViewModel" />
+            type="com.example.rickandmortydemo.ui.SharedViewModel" />
         <variable
             name="character"
-            type="com.example.harvesterapidemo.model.rickmorty.Results" />
+            type="com.example.rickandmortydemo.model.rickmorty.Results" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
